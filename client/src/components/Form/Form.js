@@ -98,7 +98,7 @@ const Form = ( {currentId, setCurrentId} ) => {
         return (
             <Paper className={classes.paper} elevation={6}>
                 <Typography variant='h6' align='center'>
-                    Please Sign in to create your own & like other's memories.
+                    Please Sign in to create your own & like other's gratitude cards.
                 </Typography>
             </Paper>
         );
